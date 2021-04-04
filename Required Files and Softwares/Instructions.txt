@@ -1,0 +1,10 @@
+Open the folder Graphics in Dev C++ and perform the following:
+
+1. Copy "6-ConsoleAppGraphics.template" & "ConsoleApp_cpp_graph.txt" files and paste it to "C:\Program Files\Dev-Cpp\Templates"
+
+2. Copy "graphics.h" & "winbgim.h" files and paste it to "C:\Program Files\Dev-Cpp\MinGW64\x86_64-w64-mingw32\include"
+
+3. Copy "libbgi.a" file and paste it to C:\Program Files\Dev-Cpp\MinGW64\x86_64-w64-mingw32\lib
+
+
+Now you can run graphics programs in Dev C++ without any interuptions.
